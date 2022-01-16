@@ -1,6 +1,3 @@
-from tabnanny import check
-
-
 n=int(input())
 a=[]
 check=1
